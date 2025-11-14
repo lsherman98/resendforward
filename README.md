@@ -2,7 +2,9 @@
 
 An open source email forwarding server and UI built to work with [Resend.com's](https://resend.com) receiving API. This project allows you to receive emails via Resend and forward them to your preferred destinations.
 
-<img width="1708" height="948" alt="Screenshot 2025-11-14 at 1 59 27 AM" src="https://github.com/user-attachments/assets/b55cd107-6c77-4d9e-80da-7cee525a9d1a" />
+> 💡 **Don't want to self-host?** Try the managed cloud offering at [resendforward.com](https://resendforward.com)
+
+<img width="1708" height="948" alt="Screenshot 2025-11-14 at 1 59 27 AM" src="https://github.com/user-attachments/assets/b55cd107-6c77-4d9e-80da-7cee525a9d1a" />
 
 ## Tech Stack
 
